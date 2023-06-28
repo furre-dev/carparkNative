@@ -16,7 +16,7 @@ function Navbar() {
           onPress={() => navigation.navigate("Home")}
           className="text-xl flex-1"
         >
-          Vehicle
+          Vehicles
         </StyledText>
         <StyledText
           onPress={() => navigation.navigate("Map")}
